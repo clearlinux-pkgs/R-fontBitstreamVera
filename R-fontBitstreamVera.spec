@@ -4,7 +4,7 @@
 #
 Name     : R-fontBitstreamVera
 Version  : 0.1.1
-Release  : 19
+Release  : 20
 URL      : https://cran.r-project.org/src/contrib/fontBitstreamVera_0.1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fontBitstreamVera_0.1.1.tar.gz
 Summary  : Fonts with 'Bitstream Vera Fonts' License
